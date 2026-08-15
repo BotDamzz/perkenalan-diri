@@ -1,0 +1,117 @@
+{
+    "profil": {
+        "nama": "Damar",
+        "umur": 15,
+        "kelas": "X DKV",
+        "jurusan": "Desain Komunikasi Visual",
+        "status": "Pelajar",
+        "deskripsi": "Saya adalah pelajar DKV yang tertarik dengan desain, fotografi, video editing, teknologi, dan pemrograman.",
+        "foto": "foto.jpg"
+    },
+
+    "hobi": [
+        {
+            "nama": "Desain",
+            "icon": "🎨",
+            "deskripsi": "Membuat desain kreatif dan visual."
+        },
+        {
+            "nama": "Fotografi",
+            "icon": "📸",
+            "deskripsi": "Mengabadikan berbagai momen melalui foto."
+        },
+        {
+            "nama": "Video Editing",
+            "icon": "🎬",
+            "deskripsi": "Membuat dan mengedit video."
+        },
+        {
+            "nama": "Coding",
+            "icon": "💻",
+            "deskripsi": "Belajar membuat website dan program."
+        }
+    ],
+
+    "skills": [
+        {
+            "nama": "Graphic Design",
+            "persentase": 80
+        },
+        {
+            "nama": "Photography",
+            "persentase": 75
+        },
+        {
+            "nama": "Video Editing",
+            "persentase": 70
+        },
+        {
+            "nama": "HTML / CSS",
+            "persentase": 75
+        },
+        {
+            "nama": "JavaScript",
+            "persentase": 60
+        },
+        {
+            "nama": "Python",
+            "persentase": 50
+        },
+        {
+            "nama": "C++",
+            "persentase": 45
+        }
+    ],
+
+    "bahasaPemrograman": [
+        {
+            "nama": "HTML",
+            "icon": "HTML",
+            "warna": "html"
+        },
+        {
+            "nama": "CSS",
+            "icon": "CSS",
+            "warna": "css"
+        },
+        {
+            "nama": "JavaScript",
+            "icon": "JS",
+            "warna": "js"
+        },
+        {
+            "nama": "Python",
+            "icon": "PY",
+            "warna": "py"
+        },
+        {
+            "nama": "C++",
+            "icon": "C++",
+            "warna": "cpp"
+        }
+    ],
+
+    "project": [
+        {
+            "nama": "Personal Website",
+            "icon": "🚀",
+            "deskripsi": "Website perkenalan diri dengan desain neon dan animasi."
+        },
+        {
+            "nama": "Turbo Rush HD",
+            "icon": "🏎️",
+            "deskripsi": "Game balap berbasis web dengan fitur nitro."
+        },
+        {
+            "nama": "Logo DKV",
+            "icon": "🎨",
+            "deskripsi": "Project desain logo berbasis vektor."
+        }
+    ],
+
+    "kontak": {
+        "email": "damar@example.com",
+        "instagram": "@damar",
+        "github": "@damar"
+    }
+}
