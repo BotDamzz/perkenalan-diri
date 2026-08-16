@@ -15,8 +15,8 @@ const songs = [
     },
 
     {
-        title: "Lagu Favorit 3",
-        artist: "Penyanyi 3",
+        title: "Tapi Diterima",
+        artist: "Nadin Hamizah",
         audio: "music/lagu3.mp3",
         cover: "images/cover3.jpg"
     },
