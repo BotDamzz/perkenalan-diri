@@ -1,15 +1,15 @@
 const songs = [
 
     {
-        title: "Lagu Favorit 1",
+        title: "Bernaung",
         artist: "Feby Putri",
         audio: "music/lagu1.mp3",
         cover: "images/cover1.jpg"
     },
 
     {
-        title: "Lagu Favorit 2",
-        artist: "Penyanyi 2",
+        title: "Dunia yang nanti",
+        artist: "Raim Laode",
         audio: "music/lagu2.mp3",
         cover: "images/cover2.jpg"
     },
