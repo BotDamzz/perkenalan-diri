@@ -22,8 +22,8 @@ const songs = [
     },
 
     {
-        title: "Lagu Favorit 4",
-        artist: "Penyanyi 4",
+        title: " Jatuh Suka ",
+        artist: "Tulus",
         audio: "music/lagu4.mp3",
         cover: "images/cover4.jpg"
     },
