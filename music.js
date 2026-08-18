@@ -29,8 +29,8 @@ const songs = [
     },
 
     {
-        title: "Lagu Favorit 5",
-        artist: "Penyanyi 5",
+        title: "Wasap Mamen",
+        artist: "DJiamputh",
         audio: "music/lagu5.mp3",
         cover: "images/cover5.jpg"
     }
